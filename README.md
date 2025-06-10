@@ -1,8 +1,4 @@
-# MIDAS: Multi-Modal Intelligent Dermoscopy Analysis System
-
-<p align="center">
-  <img src="assets/midas_logo.png" alt="MIDAS Logo" width="200">
-</p>
+# MIDAS: Multi-Modal Intelligent Dermoscopy Analysis System for Enhanced Skin Cancer Detection
 
 <p align="center">
   <strong>Enhanced Skin Cancer Detection through Bidirectional Multi-Modal Deep Learning</strong>
