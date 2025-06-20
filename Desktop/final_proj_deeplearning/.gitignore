@@ -1,17 +1,17 @@
-# Ignore macOS system files
+# macOS system files
 .DS_Store
 .Trashes
 ._*
 
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.py[cod]
 *.so
 
-# Ignore Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Ignore environment/config/cache folders
+# Virtual environments and config
 .conda/
 .venv/
 .env/
@@ -24,10 +24,9 @@ __pycache__/
 .hopsworks/
 .cursor/
 .vscode/
-.RData
-.Rhistory
+Final_deeplearning/
 
-# Ignore user-specific shell history and profiles
+# Shell history
 .bash_history
 .zsh_history
 .zshrc
@@ -36,28 +35,24 @@ __pycache__/
 .tcshrc
 .xonshrc
 
-# Ignore editor-specific settings
+# IDE/editor configs
 .idea/
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
 
-# Ignore project root leaks (relative parent paths)
-../*
-../../*
-
-# Ignore backup files
+# Backup and temp files
 *~
 *.bak
 *.tmp
 
-# Ignore log/output files
+# Logs and output
 *.log
 *.out
 
-# Ignore files like PDFs or ZIPs unless necessary
+# Docs and zips
 *.pdf
 *.zip
 
-# Ignore any notebooks not relevant
+# Misc notebooks
 Untitled*.ipynb
