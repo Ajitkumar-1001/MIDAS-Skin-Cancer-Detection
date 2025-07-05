@@ -1,1 +1,0 @@
-# manojmaheshwarjg-MIDAS-Skin-Cancer-Detection
