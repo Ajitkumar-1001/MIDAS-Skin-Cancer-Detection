@@ -20,7 +20,7 @@
 
 **Course:** CSE 676: Deep Learning, Summer 2025  
 **Institution:** University at Buffalo, SUNY  
-**Authors:** Ajit Senthil Kumar, Manoj Maheshwar Jagadeesan  
+**Authors:** Ajitkumar Senthil Kumar, Manoj Maheshwar Jagadeesan  
 **Instructor:** Professor Alina Vereshchaka  
 
 ## Overview
